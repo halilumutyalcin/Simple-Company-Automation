@@ -1,3 +1,9 @@
+######################################
+########                      ########
+# https://github.com/halilumutyalcin #
+########                      ########
+######################################
+
 class Company():
     def __init__(self):
         self.status = True
